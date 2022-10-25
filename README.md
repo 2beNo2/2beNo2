@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @2beNo2
 - 👀 I’m interested in Reverse
 - 🌱 I’m currently learning Android Reverse
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 2beNo2/2beNo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
